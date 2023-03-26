@@ -6,9 +6,7 @@
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&duration=4000&pause=1000&background=FF000000&width=600&lines=An+ambitious+Cloud+Engineer+who's;passionate+about+DevOps+and+Cloud+Computing%2C+;and+I+have+a+passion+to+read+about+new+things;in+the+software+industry+;and+sharing+the+knowledge+with+others%2C;+obsessed+with+finding+new+challenges.+;A+and+I+have+business+background+and+managerial+skills" alt="Typing SVG" /></a>
 </p>
 
-- 👋 Hi, I’m @MakariosNassef
-- 👀 I’m interested in DevOps.
-- 🌱 I’m currently learning new tools
+
 <br>
 
 <a target="_blank" align="center">
@@ -17,10 +15,10 @@
 
 <p align="center">
 
-<h1 align="center">Hi 👋, I'm Makarios Nassef</h1>
-<h3 align="center">An ambitious Cloud Engineer with a passion for DevOps and cloud computing</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=makariosnassef&label=Profile%20views&color=0e75b6&style=flat" alt="makariosnassef" /> </p>
+- 👀 I’m interested in DevOps.
+- 
+- 🌱 I’m currently learning new tools
 
 - 👨‍💻 All of my projects are available at [https://github.com/MakariosNassef?tab=repositories](https://github.com/MakariosNassef?tab=repositories)
 
