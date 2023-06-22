@@ -22,7 +22,7 @@
 - 🌱 I’m currently learning new tools
 
 - 👨‍💻 All of my projects are available at
-  [Muhammad Elgendi Prjects](https://github.com/MuhammadElgendi?tab=repositories)
+  [Muhammad Elgendi Projects](https://github.com/MuhammadElgendi?tab=repositories)
 
 - 📫 How to reach me:
   - **Muhamad.Elgendi@gmail.com**
@@ -34,10 +34,6 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/muhammedelgendi/" target="_blank">
  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammedelgendi/" height="30" width="40" /></a>
-</p>
-<p align="left">
-<a href="https://www.facebook.com/muhamadelgendi/" target="_blank">
- <img align="center" src="https://www.facebook.com/muhamadelgendi/facebook-icon.svg" alt="Facebook Icon" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
