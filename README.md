@@ -3,7 +3,7 @@
 <h1 align="center"><b>Hi , I'm Muhammad Elgendi </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&background=FF000000&width=800&lines="An+ITI+DevOps+graduate+with+experience+in+programming,+networking,+and+DevOps+tools.+Seeking+to+leverage+technical+skills+as+a+junior+DevOps+engineer,+eager+to+continue+learning+and+growing+professionally.+Utilizing+experience+from+work+and+student+activities+in+multinational+organizations+to+reach+my+career+goal" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&background=FF000000&width=800&lines=An+ITI+DevOps+graduate+with+experience+in+programming,+networking,+and+DevOps+tools.+Seeking+to+leverage+technical+skills+as+a+junior+DevOps+engineer,+eager+to+continue+learning+and+growing+professionally.+Utilizing+experience+from+work+and+student+activities+in+multinational+organizations+to+reach+my+career+goal" alt="Typing SVG" /></a>
 </p>
 
 
