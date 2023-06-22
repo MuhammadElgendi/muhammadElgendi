@@ -21,7 +21,8 @@
 
 - 🌱 I’m currently learning new tools
 
-- 👨‍💻 All of my projects are available at [https://github.com/MuhammadElgendi?tab=repositories](https://github.com/MuhammadElgendi?tab=repositories)
+- 👨‍💻 All of my projects are available at
+  [Muhammad Elgendi Prjects](https://github.com/MuhammadElgendi?tab=repositories)
 
 - 📫 How to reach me:
   - **Muhamad.Elgendi@gmail.com**
