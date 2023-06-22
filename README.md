@@ -21,11 +21,13 @@
 
 - 🌱 I’m currently learning new tools
 
-- 👨‍💻 All of my projects are available at [https://github.com/MakariosNassef?tab=repositories](https://github.com/MakariosNassef?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/MuhammadElgendi?tab=repositories](https://github.com/MuhammadElgendi?tab=repositories)
 
-- 📫 How to reach me **makarios059@gmail.com**
+- 📫 How to reach me:
+  - **Muhamad.Elgendi@gmail.com**
+  - **+20 1140036006**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/makarios-nassef/](https://www.linkedin.com/in/makarios-nassef/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/muhammedelgendi/](https://www.linkedin.com/in/muhammedelgendi/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
